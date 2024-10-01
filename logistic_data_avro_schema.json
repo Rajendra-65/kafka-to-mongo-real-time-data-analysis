@@ -1,0 +1,27 @@
+{
+    "name":"logistic_data",
+    "namespace":"logistic_data",
+    "type":"record",
+    "fields":[
+        {
+            "name":"shipment_id",
+            "type":"string"
+        },
+        {
+            "name":"origin",
+            "type":"string"
+        },
+        {
+            "name":"destination",
+            "type":"string"
+        },
+        {
+            "name":"status",
+            "type":"string"
+        },
+        {
+            "name":"timestamp",
+            "type":"string"
+        }
+    ]
+}

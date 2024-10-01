@@ -1,0 +1,501 @@
+shipment_id,origin,destination,status,timestamp
+SH000001,"Chicago, IL","New York, NY",pending,2024-12-07T01:45:10Z
+SH000002,"Houston, TX","New York, NY",canceled,2024-08-24T04:21:35Z
+SH000003,"New York, NY","Los Angeles, CA",in-transit,2024-10-22T08:42:42Z
+SH000004,"Houston, TX","Chicago, IL",in-transit,2024-12-01T09:56:18Z
+SH000005,"New York, NY","Los Angeles, CA",delivered,2023-01-20T06:56:48Z
+SH000006,"Phoenix, AZ","New York, NY",in-transit,2024-11-12T14:05:28Z
+SH000007,"Chicago, IL","Houston, TX",in-transit,2024-01-17T06:59:50Z
+SH000008,"Chicago, IL","New York, NY",delivered,2024-03-23T21:20:56Z
+SH000009,"Chicago, IL","Phoenix, AZ",canceled,2023-03-11T19:09:22Z
+SH000010,"Los Angeles, CA","Houston, TX",delivered,2024-06-01T22:28:36Z
+SH000011,"Los Angeles, CA","Houston, TX",in-transit,2024-01-28T22:56:46Z
+SH000012,"New York, NY","Houston, TX",canceled,2023-12-14T03:04:23Z
+SH000013,"Houston, TX","Phoenix, AZ",canceled,2024-11-12T07:59:46Z
+SH000014,"Los Angeles, CA","Chicago, IL",in-transit,2024-04-05T00:29:46Z
+SH000015,"Los Angeles, CA","New York, NY",pending,2023-01-26T05:33:57Z
+SH000016,"Phoenix, AZ","New York, NY",delivered,2024-02-24T13:07:37Z
+SH000017,"Phoenix, AZ","New York, NY",in-transit,2023-10-28T21:12:31Z
+SH000018,"Houston, TX","Phoenix, AZ",canceled,2023-04-01T15:06:57Z
+SH000019,"Chicago, IL","Phoenix, AZ",in-transit,2023-04-24T06:51:46Z
+SH000020,"Chicago, IL","Los Angeles, CA",canceled,2024-11-25T17:33:15Z
+SH000021,"Houston, TX","Phoenix, AZ",pending,2024-11-14T02:10:47Z
+SH000022,"Chicago, IL","Phoenix, AZ",canceled,2023-09-06T18:23:07Z
+SH000023,"Los Angeles, CA","New York, NY",pending,2023-03-27T10:05:47Z
+SH000024,"Phoenix, AZ","New York, NY",pending,2024-06-24T15:00:47Z
+SH000025,"Houston, TX","New York, NY",in-transit,2023-01-31T15:26:11Z
+SH000026,"Chicago, IL","Phoenix, AZ",canceled,2023-03-24T08:31:36Z
+SH000027,"Phoenix, AZ","Houston, TX",canceled,2024-05-29T02:36:03Z
+SH000028,"New York, NY","Chicago, IL",in-transit,2024-06-26T14:12:34Z
+SH000029,"Los Angeles, CA","New York, NY",canceled,2024-02-16T23:51:42Z
+SH000030,"Chicago, IL","New York, NY",in-transit,2023-01-03T08:24:25Z
+SH000031,"Los Angeles, CA","New York, NY",in-transit,2023-02-20T16:12:04Z
+SH000032,"Phoenix, AZ","New York, NY",in-transit,2024-07-15T05:23:09Z
+SH000033,"New York, NY","Houston, TX",pending,2023-10-07T05:55:37Z
+SH000034,"Los Angeles, CA","Houston, TX",delivered,2023-11-24T18:32:24Z
+SH000035,"New York, NY","Chicago, IL",canceled,2024-08-12T11:28:54Z
+SH000036,"Chicago, IL","Phoenix, AZ",pending,2024-06-22T10:07:27Z
+SH000037,"Los Angeles, CA","Chicago, IL",in-transit,2024-05-20T06:19:04Z
+SH000038,"Phoenix, AZ","Houston, TX",canceled,2024-09-10T14:13:53Z
+SH000039,"New York, NY","Houston, TX",in-transit,2023-02-22T19:51:50Z
+SH000040,"Houston, TX","Phoenix, AZ",delivered,2024-08-03T15:10:34Z
+SH000041,"Phoenix, AZ","New York, NY",delivered,2023-04-05T02:54:55Z
+SH000042,"New York, NY","Chicago, IL",pending,2023-06-09T15:31:26Z
+SH000043,"Chicago, IL","Houston, TX",canceled,2024-07-31T09:42:53Z
+SH000044,"New York, NY","Houston, TX",in-transit,2024-10-14T21:46:38Z
+SH000045,"Phoenix, AZ","Houston, TX",canceled,2023-08-14T05:33:55Z
+SH000046,"Los Angeles, CA","Chicago, IL",pending,2023-01-16T15:40:33Z
+SH000047,"Houston, TX","Chicago, IL",pending,2023-12-27T00:07:39Z
+SH000048,"Phoenix, AZ","New York, NY",pending,2023-09-22T19:23:52Z
+SH000049,"Houston, TX","Chicago, IL",delivered,2023-03-17T02:25:47Z
+SH000050,"Houston, TX","Phoenix, AZ",delivered,2024-11-25T19:52:37Z
+SH000051,"Phoenix, AZ","Houston, TX",delivered,2024-04-23T19:35:42Z
+SH000052,"Los Angeles, CA","Phoenix, AZ",delivered,2024-09-27T02:54:22Z
+SH000053,"Chicago, IL","Phoenix, AZ",in-transit,2023-01-03T01:44:52Z
+SH000054,"Los Angeles, CA","Chicago, IL",canceled,2024-11-25T21:37:43Z
+SH000055,"Houston, TX","Phoenix, AZ",delivered,2024-09-25T10:20:04Z
+SH000056,"Houston, TX","New York, NY",in-transit,2023-11-18T13:48:14Z
+SH000057,"Phoenix, AZ","Los Angeles, CA",pending,2023-06-07T08:48:02Z
+SH000058,"Phoenix, AZ","Los Angeles, CA",in-transit,2023-03-18T15:35:50Z
+SH000059,"Los Angeles, CA","New York, NY",delivered,2024-09-26T14:24:53Z
+SH000060,"Los Angeles, CA","Chicago, IL",delivered,2024-11-08T17:18:42Z
+SH000061,"Phoenix, AZ","Houston, TX",canceled,2023-07-16T12:31:56Z
+SH000062,"Houston, TX","New York, NY",in-transit,2024-08-30T12:31:43Z
+SH000063,"New York, NY","Chicago, IL",pending,2023-08-30T01:15:53Z
+SH000064,"New York, NY","Chicago, IL",delivered,2023-12-26T00:16:50Z
+SH000065,"Phoenix, AZ","Chicago, IL",in-transit,2024-05-17T12:26:47Z
+SH000066,"Los Angeles, CA","Houston, TX",delivered,2024-01-08T11:33:54Z
+SH000067,"Chicago, IL","Los Angeles, CA",canceled,2024-09-10T02:40:25Z
+SH000068,"New York, NY","Chicago, IL",delivered,2024-10-21T03:26:41Z
+SH000069,"New York, NY","Houston, TX",delivered,2023-08-09T05:12:05Z
+SH000070,"Los Angeles, CA","Houston, TX",delivered,2023-12-03T16:28:24Z
+SH000071,"New York, NY","Phoenix, AZ",in-transit,2024-10-17T09:10:12Z
+SH000072,"Phoenix, AZ","Houston, TX",delivered,2023-11-02T15:46:14Z
+SH000073,"New York, NY","Los Angeles, CA",pending,2024-01-17T22:35:18Z
+SH000074,"Los Angeles, CA","Chicago, IL",pending,2023-08-25T07:21:11Z
+SH000075,"New York, NY","Los Angeles, CA",pending,2024-05-24T10:19:48Z
+SH000076,"Houston, TX","Chicago, IL",in-transit,2024-04-13T17:26:27Z
+SH000077,"New York, NY","Houston, TX",pending,2023-12-22T12:04:01Z
+SH000078,"Chicago, IL","New York, NY",pending,2024-03-19T00:51:16Z
+SH000079,"New York, NY","Los Angeles, CA",in-transit,2023-12-09T21:38:09Z
+SH000080,"Chicago, IL","Houston, TX",delivered,2024-01-15T15:43:13Z
+SH000081,"Phoenix, AZ","Chicago, IL",delivered,2023-11-13T10:52:52Z
+SH000082,"Chicago, IL","Phoenix, AZ",in-transit,2024-12-22T16:56:10Z
+SH000083,"New York, NY","Chicago, IL",delivered,2023-04-03T21:54:26Z
+SH000084,"Chicago, IL","Los Angeles, CA",delivered,2024-01-17T00:15:34Z
+SH000085,"Los Angeles, CA","Phoenix, AZ",canceled,2023-10-14T23:46:03Z
+SH000086,"Los Angeles, CA","Chicago, IL",canceled,2023-04-30T02:36:47Z
+SH000087,"Houston, TX","New York, NY",delivered,2023-01-19T15:57:57Z
+SH000088,"Houston, TX","Chicago, IL",pending,2023-06-20T06:06:20Z
+SH000089,"New York, NY","Los Angeles, CA",in-transit,2023-05-14T12:06:07Z
+SH000090,"Chicago, IL","Houston, TX",canceled,2024-06-11T18:34:24Z
+SH000091,"New York, NY","Los Angeles, CA",delivered,2023-02-20T06:06:04Z
+SH000092,"New York, NY","Houston, TX",in-transit,2024-12-13T03:33:55Z
+SH000093,"Houston, TX","New York, NY",delivered,2024-08-01T07:50:06Z
+SH000094,"Houston, TX","Los Angeles, CA",delivered,2023-06-11T11:28:28Z
+SH000095,"Houston, TX","Chicago, IL",delivered,2023-10-25T13:36:35Z
+SH000096,"Phoenix, AZ","Los Angeles, CA",in-transit,2024-10-09T19:00:12Z
+SH000097,"Phoenix, AZ","Los Angeles, CA",pending,2023-04-30T19:37:12Z
+SH000098,"Chicago, IL","Los Angeles, CA",pending,2023-08-28T09:40:33Z
+SH000099,"Phoenix, AZ","Chicago, IL",in-transit,2024-05-20T13:44:34Z
+SH000100,"Chicago, IL","Phoenix, AZ",pending,2023-04-16T03:58:19Z
+SH000101,"Houston, TX","Los Angeles, CA",pending,2023-11-11T21:13:48Z
+SH000102,"Chicago, IL","Houston, TX",in-transit,2024-01-16T03:49:50Z
+SH000103,"Phoenix, AZ","Houston, TX",in-transit,2024-07-19T20:40:20Z
+SH000104,"New York, NY","Houston, TX",pending,2024-02-01T07:18:07Z
+SH000105,"Phoenix, AZ","Los Angeles, CA",delivered,2023-05-04T10:52:15Z
+SH000106,"Houston, TX","Chicago, IL",pending,2024-08-18T16:15:24Z
+SH000107,"Phoenix, AZ","New York, NY",in-transit,2023-10-17T04:10:54Z
+SH000108,"Chicago, IL","Los Angeles, CA",in-transit,2023-08-18T12:56:21Z
+SH000109,"Chicago, IL","Los Angeles, CA",canceled,2024-03-25T01:24:49Z
+SH000110,"New York, NY","Houston, TX",pending,2023-02-17T10:53:46Z
+SH000111,"Los Angeles, CA","Phoenix, AZ",canceled,2023-08-30T07:35:20Z
+SH000112,"Houston, TX","Chicago, IL",canceled,2023-01-18T20:48:17Z
+SH000113,"Phoenix, AZ","Houston, TX",delivered,2024-07-29T09:53:33Z
+SH000114,"Los Angeles, CA","Chicago, IL",pending,2024-12-10T01:00:51Z
+SH000115,"Phoenix, AZ","Los Angeles, CA",pending,2024-09-13T16:51:58Z
+SH000116,"Houston, TX","Los Angeles, CA",delivered,2024-11-29T13:12:03Z
+SH000117,"Los Angeles, CA","Phoenix, AZ",pending,2023-11-08T09:18:25Z
+SH000118,"Houston, TX","Chicago, IL",in-transit,2023-08-04T08:50:56Z
+SH000119,"Chicago, IL","New York, NY",canceled,2024-10-26T20:32:57Z
+SH000120,"Houston, TX","New York, NY",canceled,2024-10-20T09:29:23Z
+SH000121,"Houston, TX","Chicago, IL",in-transit,2024-08-14T04:27:05Z
+SH000122,"Phoenix, AZ","Chicago, IL",in-transit,2024-01-08T20:50:52Z
+SH000123,"New York, NY","Los Angeles, CA",in-transit,2024-03-08T14:10:52Z
+SH000124,"Houston, TX","Chicago, IL",in-transit,2024-07-27T09:16:39Z
+SH000125,"Houston, TX","Phoenix, AZ",pending,2024-06-20T18:59:31Z
+SH000126,"Los Angeles, CA","Phoenix, AZ",canceled,2024-08-07T01:26:59Z
+SH000127,"Chicago, IL","Los Angeles, CA",in-transit,2024-08-19T13:00:39Z
+SH000128,"Los Angeles, CA","Phoenix, AZ",in-transit,2023-02-21T23:55:27Z
+SH000129,"Chicago, IL","Houston, TX",in-transit,2024-02-01T18:58:47Z
+SH000130,"New York, NY","Chicago, IL",in-transit,2023-01-04T19:00:49Z
+SH000131,"New York, NY","Phoenix, AZ",canceled,2023-06-15T20:44:49Z
+SH000132,"New York, NY","Houston, TX",canceled,2023-05-08T16:13:41Z
+SH000133,"Phoenix, AZ","Chicago, IL",canceled,2024-08-02T15:51:22Z
+SH000134,"New York, NY","Chicago, IL",delivered,2023-08-29T18:41:47Z
+SH000135,"Houston, TX","Chicago, IL",pending,2023-06-03T10:46:43Z
+SH000136,"New York, NY","Phoenix, AZ",in-transit,2023-12-20T04:34:34Z
+SH000137,"Phoenix, AZ","Chicago, IL",canceled,2023-10-03T01:15:58Z
+SH000138,"Chicago, IL","New York, NY",in-transit,2024-12-06T00:41:43Z
+SH000139,"New York, NY","Los Angeles, CA",delivered,2023-06-02T12:20:32Z
+SH000140,"New York, NY","Phoenix, AZ",delivered,2023-06-30T05:39:13Z
+SH000141,"Chicago, IL","Houston, TX",pending,2024-12-29T04:49:06Z
+SH000142,"Houston, TX","Los Angeles, CA",canceled,2023-05-30T20:16:25Z
+SH000143,"Phoenix, AZ","New York, NY",in-transit,2024-02-28T11:23:50Z
+SH000144,"Los Angeles, CA","Houston, TX",delivered,2023-10-22T06:33:13Z
+SH000145,"Los Angeles, CA","New York, NY",pending,2023-07-23T20:21:13Z
+SH000146,"Los Angeles, CA","Chicago, IL",in-transit,2024-10-27T15:39:58Z
+SH000147,"Phoenix, AZ","Houston, TX",delivered,2023-07-19T07:45:43Z
+SH000148,"Houston, TX","New York, NY",delivered,2024-06-05T20:35:21Z
+SH000149,"Chicago, IL","Houston, TX",in-transit,2024-01-19T19:46:06Z
+SH000150,"Phoenix, AZ","Los Angeles, CA",pending,2023-01-12T17:38:10Z
+SH000151,"Chicago, IL","Los Angeles, CA",canceled,2023-07-16T11:29:22Z
+SH000152,"Phoenix, AZ","Houston, TX",canceled,2023-02-22T19:45:29Z
+SH000153,"Houston, TX","Los Angeles, CA",delivered,2024-11-21T14:42:43Z
+SH000154,"Chicago, IL","Phoenix, AZ",canceled,2023-07-26T13:43:12Z
+SH000155,"Phoenix, AZ","New York, NY",pending,2024-07-26T11:58:07Z
+SH000156,"Houston, TX","Chicago, IL",in-transit,2023-11-21T17:31:25Z
+SH000157,"New York, NY","Chicago, IL",canceled,2023-08-29T00:34:15Z
+SH000158,"New York, NY","Houston, TX",canceled,2024-01-16T21:29:11Z
+SH000159,"Houston, TX","Phoenix, AZ",delivered,2024-03-16T01:51:32Z
+SH000160,"Phoenix, AZ","New York, NY",pending,2023-01-15T05:08:18Z
+SH000161,"Houston, TX","Phoenix, AZ",pending,2024-02-29T10:14:59Z
+SH000162,"New York, NY","Houston, TX",in-transit,2024-03-27T12:00:12Z
+SH000163,"Phoenix, AZ","New York, NY",pending,2024-07-23T13:46:38Z
+SH000164,"Houston, TX","Los Angeles, CA",canceled,2023-01-04T08:53:28Z
+SH000165,"Houston, TX","Los Angeles, CA",pending,2024-12-08T18:27:28Z
+SH000166,"Los Angeles, CA","Houston, TX",delivered,2023-12-24T23:46:41Z
+SH000167,"Los Angeles, CA","Chicago, IL",pending,2023-03-17T08:11:16Z
+SH000168,"Los Angeles, CA","Chicago, IL",canceled,2024-06-06T23:44:38Z
+SH000169,"New York, NY","Los Angeles, CA",canceled,2024-09-03T21:31:32Z
+SH000170,"New York, NY","Phoenix, AZ",canceled,2024-02-22T00:57:22Z
+SH000171,"Houston, TX","Chicago, IL",pending,2023-03-30T07:22:44Z
+SH000172,"Phoenix, AZ","Chicago, IL",canceled,2024-09-18T17:31:49Z
+SH000173,"Phoenix, AZ","Chicago, IL",canceled,2024-10-04T21:48:57Z
+SH000174,"Los Angeles, CA","Phoenix, AZ",delivered,2024-05-16T06:22:09Z
+SH000175,"New York, NY","Los Angeles, CA",canceled,2023-02-16T00:50:04Z
+SH000176,"Houston, TX","Los Angeles, CA",canceled,2023-12-21T08:29:38Z
+SH000177,"Chicago, IL","Los Angeles, CA",in-transit,2024-05-12T10:46:53Z
+SH000178,"Los Angeles, CA","New York, NY",delivered,2024-10-21T20:50:04Z
+SH000179,"Chicago, IL","New York, NY",pending,2023-07-28T10:32:55Z
+SH000180,"Phoenix, AZ","Chicago, IL",canceled,2024-08-05T08:17:46Z
+SH000181,"Phoenix, AZ","New York, NY",delivered,2023-01-17T08:53:40Z
+SH000182,"New York, NY","Chicago, IL",delivered,2024-05-10T18:17:22Z
+SH000183,"Los Angeles, CA","Houston, TX",canceled,2024-07-16T20:47:39Z
+SH000184,"Los Angeles, CA","Phoenix, AZ",delivered,2024-03-03T00:47:27Z
+SH000185,"Los Angeles, CA","Phoenix, AZ",in-transit,2024-03-29T15:47:09Z
+SH000186,"New York, NY","Phoenix, AZ",delivered,2023-10-27T11:02:24Z
+SH000187,"Houston, TX","New York, NY",canceled,2024-09-07T15:23:41Z
+SH000188,"Houston, TX","Chicago, IL",pending,2023-08-21T07:10:21Z
+SH000189,"Houston, TX","Chicago, IL",delivered,2024-11-29T09:05:52Z
+SH000190,"Los Angeles, CA","New York, NY",pending,2023-04-13T12:31:01Z
+SH000191,"Phoenix, AZ","Chicago, IL",canceled,2023-03-28T14:32:04Z
+SH000192,"New York, NY","Los Angeles, CA",in-transit,2023-08-25T13:40:15Z
+SH000193,"Chicago, IL","Phoenix, AZ",delivered,2024-07-02T03:58:10Z
+SH000194,"Los Angeles, CA","Houston, TX",in-transit,2024-02-29T14:38:17Z
+SH000195,"New York, NY","Houston, TX",delivered,2023-07-22T09:47:33Z
+SH000196,"Houston, TX","Phoenix, AZ",delivered,2023-11-01T01:19:42Z
+SH000197,"Los Angeles, CA","Phoenix, AZ",in-transit,2024-07-04T12:47:42Z
+SH000198,"Phoenix, AZ","Los Angeles, CA",canceled,2023-10-16T16:06:56Z
+SH000199,"Phoenix, AZ","Chicago, IL",pending,2023-08-28T14:37:38Z
+SH000200,"Houston, TX","New York, NY",canceled,2024-01-05T16:23:35Z
+SH000201,"Phoenix, AZ","New York, NY",in-transit,2024-11-17T13:56:59Z
+SH000202,"Los Angeles, CA","Phoenix, AZ",delivered,2024-08-31T22:06:51Z
+SH000203,"Houston, TX","Phoenix, AZ",delivered,2024-11-03T10:14:15Z
+SH000204,"Los Angeles, CA","Houston, TX",delivered,2023-05-13T22:22:58Z
+SH000205,"Houston, TX","Los Angeles, CA",canceled,2023-07-01T22:35:16Z
+SH000206,"Los Angeles, CA","Chicago, IL",canceled,2023-07-24T00:14:15Z
+SH000207,"Los Angeles, CA","Houston, TX",delivered,2024-08-02T06:44:30Z
+SH000208,"Chicago, IL","Houston, TX",in-transit,2023-06-03T02:25:50Z
+SH000209,"Chicago, IL","New York, NY",delivered,2024-07-15T05:50:53Z
+SH000210,"Houston, TX","Chicago, IL",in-transit,2024-10-31T06:25:13Z
+SH000211,"New York, NY","Phoenix, AZ",in-transit,2024-11-12T23:14:57Z
+SH000212,"Chicago, IL","New York, NY",pending,2023-03-26T21:06:21Z
+SH000213,"Phoenix, AZ","Chicago, IL",in-transit,2023-07-02T16:14:09Z
+SH000214,"New York, NY","Chicago, IL",canceled,2023-02-28T15:08:30Z
+SH000215,"Chicago, IL","Houston, TX",pending,2023-09-16T14:13:19Z
+SH000216,"New York, NY","Los Angeles, CA",pending,2024-08-15T10:36:25Z
+SH000217,"New York, NY","Los Angeles, CA",delivered,2024-01-17T16:01:22Z
+SH000218,"New York, NY","Phoenix, AZ",pending,2024-06-12T06:28:22Z
+SH000219,"Los Angeles, CA","New York, NY",in-transit,2024-05-10T10:39:33Z
+SH000220,"Chicago, IL","Phoenix, AZ",delivered,2023-02-28T15:31:49Z
+SH000221,"Phoenix, AZ","New York, NY",delivered,2023-10-16T01:07:00Z
+SH000222,"Chicago, IL","Los Angeles, CA",pending,2024-07-26T19:08:40Z
+SH000223,"Phoenix, AZ","Los Angeles, CA",pending,2023-10-06T09:15:04Z
+SH000224,"New York, NY","Houston, TX",pending,2024-01-11T02:21:40Z
+SH000225,"Phoenix, AZ","Los Angeles, CA",in-transit,2023-01-30T21:33:56Z
+SH000226,"Los Angeles, CA","Phoenix, AZ",in-transit,2024-08-21T23:01:14Z
+SH000227,"Chicago, IL","Los Angeles, CA",in-transit,2024-11-16T01:46:25Z
+SH000228,"Los Angeles, CA","New York, NY",delivered,2023-08-25T21:13:47Z
+SH000229,"Houston, TX","Phoenix, AZ",in-transit,2023-11-07T23:26:28Z
+SH000230,"New York, NY","Houston, TX",pending,2024-06-15T01:25:55Z
+SH000231,"Chicago, IL","Houston, TX",pending,2023-07-27T06:54:44Z
+SH000232,"Los Angeles, CA","New York, NY",canceled,2024-08-24T00:03:33Z
+SH000233,"Houston, TX","Phoenix, AZ",canceled,2024-02-26T17:28:49Z
+SH000234,"New York, NY","Chicago, IL",in-transit,2024-11-28T08:48:30Z
+SH000235,"Houston, TX","Phoenix, AZ",canceled,2024-11-21T18:58:06Z
+SH000236,"New York, NY","Houston, TX",canceled,2024-09-03T08:05:20Z
+SH000237,"Chicago, IL","Houston, TX",pending,2024-05-02T02:40:22Z
+SH000238,"Phoenix, AZ","Chicago, IL",delivered,2024-11-03T20:36:15Z
+SH000239,"Chicago, IL","Houston, TX",in-transit,2024-09-14T19:10:54Z
+SH000240,"Houston, TX","Chicago, IL",pending,2024-10-20T05:13:44Z
+SH000241,"New York, NY","Houston, TX",pending,2024-08-22T19:30:45Z
+SH000242,"New York, NY","Houston, TX",delivered,2023-07-12T10:56:21Z
+SH000243,"Los Angeles, CA","Chicago, IL",canceled,2024-03-27T23:25:20Z
+SH000244,"Chicago, IL","Los Angeles, CA",pending,2024-03-18T17:10:43Z
+SH000245,"New York, NY","Chicago, IL",pending,2024-09-02T21:25:48Z
+SH000246,"Chicago, IL","New York, NY",in-transit,2023-03-21T19:55:39Z
+SH000247,"Houston, TX","Phoenix, AZ",in-transit,2023-03-13T23:30:17Z
+SH000248,"Phoenix, AZ","Chicago, IL",in-transit,2023-07-13T20:58:04Z
+SH000249,"Houston, TX","Phoenix, AZ",delivered,2023-04-20T08:18:03Z
+SH000250,"Phoenix, AZ","Los Angeles, CA",canceled,2023-04-09T01:46:16Z
+SH000251,"Chicago, IL","Los Angeles, CA",pending,2024-12-02T13:24:15Z
+SH000252,"Chicago, IL","Phoenix, AZ",in-transit,2023-09-05T11:21:42Z
+SH000253,"Los Angeles, CA","Houston, TX",in-transit,2023-03-24T21:20:07Z
+SH000254,"Los Angeles, CA","New York, NY",delivered,2024-02-11T01:24:47Z
+SH000255,"Chicago, IL","Los Angeles, CA",in-transit,2023-02-10T15:23:52Z
+SH000256,"Phoenix, AZ","Los Angeles, CA",delivered,2024-04-27T16:43:11Z
+SH000257,"Los Angeles, CA","Phoenix, AZ",canceled,2024-08-16T01:04:57Z
+SH000258,"Houston, TX","Phoenix, AZ",canceled,2023-04-10T23:31:53Z
+SH000259,"Phoenix, AZ","Houston, TX",pending,2023-10-08T08:20:04Z
+SH000260,"Los Angeles, CA","Phoenix, AZ",delivered,2024-02-20T15:51:01Z
+SH000261,"Chicago, IL","Phoenix, AZ",canceled,2023-04-28T21:45:45Z
+SH000262,"Phoenix, AZ","New York, NY",pending,2024-07-24T00:23:25Z
+SH000263,"Houston, TX","Phoenix, AZ",canceled,2023-11-27T08:01:03Z
+SH000264,"Phoenix, AZ","Los Angeles, CA",in-transit,2023-08-31T14:02:20Z
+SH000265,"Los Angeles, CA","Houston, TX",delivered,2024-05-29T13:21:33Z
+SH000266,"Los Angeles, CA","New York, NY",in-transit,2023-04-06T10:28:27Z
+SH000267,"Houston, TX","Los Angeles, CA",in-transit,2024-07-07T01:37:03Z
+SH000268,"Houston, TX","Los Angeles, CA",canceled,2023-12-15T22:46:18Z
+SH000269,"Phoenix, AZ","Chicago, IL",delivered,2023-06-10T10:11:55Z
+SH000270,"New York, NY","Phoenix, AZ",in-transit,2024-09-10T12:36:28Z
+SH000271,"Chicago, IL","New York, NY",canceled,2023-05-04T09:34:25Z
+SH000272,"Chicago, IL","Houston, TX",delivered,2024-06-14T04:04:19Z
+SH000273,"Phoenix, AZ","Chicago, IL",canceled,2023-03-11T02:10:05Z
+SH000274,"New York, NY","Chicago, IL",pending,2023-01-06T12:39:11Z
+SH000275,"New York, NY","Los Angeles, CA",canceled,2024-12-07T23:38:55Z
+SH000276,"Phoenix, AZ","Chicago, IL",delivered,2023-09-09T17:06:30Z
+SH000277,"Los Angeles, CA","Houston, TX",in-transit,2023-07-18T15:20:35Z
+SH000278,"Chicago, IL","Houston, TX",canceled,2024-01-30T11:01:52Z
+SH000279,"Phoenix, AZ","Houston, TX",pending,2024-07-12T23:26:44Z
+SH000280,"Los Angeles, CA","Houston, TX",in-transit,2023-05-24T10:58:58Z
+SH000281,"Chicago, IL","Phoenix, AZ",in-transit,2024-04-08T23:21:23Z
+SH000282,"New York, NY","Chicago, IL",canceled,2023-07-17T23:31:32Z
+SH000283,"Los Angeles, CA","New York, NY",pending,2024-10-18T01:14:36Z
+SH000284,"Houston, TX","Phoenix, AZ",delivered,2024-06-27T04:47:20Z
+SH000285,"New York, NY","Los Angeles, CA",pending,2023-09-14T23:22:15Z
+SH000286,"New York, NY","Los Angeles, CA",pending,2023-12-21T03:02:32Z
+SH000287,"Chicago, IL","Phoenix, AZ",pending,2024-12-13T05:09:20Z
+SH000288,"Los Angeles, CA","New York, NY",pending,2024-02-16T19:39:06Z
+SH000289,"Los Angeles, CA","Chicago, IL",canceled,2023-07-31T09:18:19Z
+SH000290,"Houston, TX","Phoenix, AZ",in-transit,2023-06-18T08:45:26Z
+SH000291,"New York, NY","Phoenix, AZ",pending,2023-06-10T15:11:25Z
+SH000292,"Houston, TX","Los Angeles, CA",pending,2024-10-30T07:45:06Z
+SH000293,"Chicago, IL","Los Angeles, CA",canceled,2024-10-17T04:54:02Z
+SH000294,"Houston, TX","Los Angeles, CA",canceled,2023-12-21T06:59:47Z
+SH000295,"Los Angeles, CA","Chicago, IL",delivered,2024-10-30T16:13:14Z
+SH000296,"Chicago, IL","Los Angeles, CA",canceled,2024-11-08T06:40:30Z
+SH000297,"Houston, TX","New York, NY",pending,2024-04-09T12:00:12Z
+SH000298,"Chicago, IL","Phoenix, AZ",delivered,2023-06-02T22:42:33Z
+SH000299,"Houston, TX","Chicago, IL",in-transit,2024-05-09T13:25:14Z
+SH000300,"Phoenix, AZ","New York, NY",pending,2024-04-13T18:14:46Z
+SH000301,"New York, NY","Chicago, IL",canceled,2023-05-27T21:12:12Z
+SH000302,"Chicago, IL","Phoenix, AZ",canceled,2023-09-01T11:44:41Z
+SH000303,"Los Angeles, CA","Houston, TX",in-transit,2024-11-26T13:16:22Z
+SH000304,"New York, NY","Los Angeles, CA",canceled,2023-08-25T00:52:48Z
+SH000305,"Chicago, IL","Phoenix, AZ",in-transit,2023-09-04T13:19:49Z
+SH000306,"Houston, TX","Chicago, IL",pending,2024-12-25T03:35:03Z
+SH000307,"Chicago, IL","Phoenix, AZ",in-transit,2023-11-03T14:25:12Z
+SH000308,"Phoenix, AZ","New York, NY",in-transit,2023-10-16T21:43:21Z
+SH000309,"Phoenix, AZ","New York, NY",in-transit,2024-04-22T00:52:05Z
+SH000310,"Los Angeles, CA","Chicago, IL",in-transit,2023-04-20T20:45:06Z
+SH000311,"Los Angeles, CA","Houston, TX",pending,2023-01-17T19:54:39Z
+SH000312,"Houston, TX","Chicago, IL",delivered,2024-04-21T15:56:37Z
+SH000313,"Houston, TX","New York, NY",pending,2023-09-09T10:54:51Z
+SH000314,"Los Angeles, CA","New York, NY",canceled,2023-04-24T11:30:18Z
+SH000315,"Chicago, IL","New York, NY",in-transit,2023-12-26T13:02:23Z
+SH000316,"Chicago, IL","New York, NY",in-transit,2024-07-19T16:21:01Z
+SH000317,"Phoenix, AZ","New York, NY",delivered,2024-03-14T21:24:49Z
+SH000318,"Los Angeles, CA","Phoenix, AZ",canceled,2024-05-10T04:29:05Z
+SH000319,"New York, NY","Phoenix, AZ",in-transit,2023-08-01T15:55:21Z
+SH000320,"New York, NY","Chicago, IL",delivered,2023-08-08T06:18:16Z
+SH000321,"Los Angeles, CA","Houston, TX",canceled,2024-03-20T07:29:47Z
+SH000322,"New York, NY","Houston, TX",pending,2024-12-12T00:22:32Z
+SH000323,"Houston, TX","Chicago, IL",delivered,2023-03-18T14:27:21Z
+SH000324,"Phoenix, AZ","New York, NY",delivered,2023-06-04T09:43:26Z
+SH000325,"Houston, TX","Los Angeles, CA",canceled,2023-05-06T14:58:15Z
+SH000326,"New York, NY","Chicago, IL",canceled,2024-05-24T12:48:07Z
+SH000327,"Houston, TX","New York, NY",in-transit,2024-05-07T09:10:06Z
+SH000328,"New York, NY","Phoenix, AZ",delivered,2023-08-26T23:36:38Z
+SH000329,"Houston, TX","Phoenix, AZ",pending,2023-01-28T14:06:32Z
+SH000330,"New York, NY","Los Angeles, CA",canceled,2023-11-15T06:41:13Z
+SH000331,"Phoenix, AZ","Los Angeles, CA",delivered,2024-06-04T21:14:44Z
+SH000332,"Los Angeles, CA","Phoenix, AZ",delivered,2023-08-24T16:04:43Z
+SH000333,"New York, NY","Los Angeles, CA",canceled,2024-07-04T11:48:18Z
+SH000334,"Los Angeles, CA","Houston, TX",in-transit,2023-08-11T20:21:54Z
+SH000335,"Houston, TX","Phoenix, AZ",in-transit,2023-09-07T00:09:19Z
+SH000336,"New York, NY","Chicago, IL",in-transit,2024-03-15T19:05:45Z
+SH000337,"Los Angeles, CA","Houston, TX",canceled,2024-07-04T13:15:43Z
+SH000338,"Houston, TX","Phoenix, AZ",pending,2024-07-03T19:24:14Z
+SH000339,"Chicago, IL","Los Angeles, CA",delivered,2023-09-06T08:37:22Z
+SH000340,"Chicago, IL","Los Angeles, CA",delivered,2023-06-27T12:48:29Z
+SH000341,"Phoenix, AZ","Houston, TX",pending,2023-02-14T11:01:12Z
+SH000342,"New York, NY","Phoenix, AZ",canceled,2023-06-23T17:49:09Z
+SH000343,"Chicago, IL","New York, NY",in-transit,2024-02-08T07:37:37Z
+SH000344,"Chicago, IL","Los Angeles, CA",pending,2024-01-04T14:26:38Z
+SH000345,"Phoenix, AZ","Houston, TX",canceled,2024-10-09T00:40:31Z
+SH000346,"Chicago, IL","Los Angeles, CA",pending,2024-12-12T01:19:43Z
+SH000347,"Chicago, IL","Los Angeles, CA",in-transit,2024-05-28T09:40:40Z
+SH000348,"Houston, TX","Los Angeles, CA",canceled,2024-06-15T15:32:02Z
+SH000349,"Phoenix, AZ","Los Angeles, CA",canceled,2023-08-21T03:28:52Z
+SH000350,"New York, NY","Houston, TX",delivered,2024-01-03T15:53:06Z
+SH000351,"New York, NY","Phoenix, AZ",delivered,2024-08-23T09:19:40Z
+SH000352,"Houston, TX","New York, NY",delivered,2024-03-18T18:17:25Z
+SH000353,"Houston, TX","Phoenix, AZ",in-transit,2023-05-27T17:17:06Z
+SH000354,"Phoenix, AZ","Houston, TX",pending,2024-09-16T23:32:24Z
+SH000355,"New York, NY","Chicago, IL",in-transit,2024-08-18T13:42:00Z
+SH000356,"New York, NY","Chicago, IL",delivered,2024-12-21T07:27:29Z
+SH000357,"Chicago, IL","Los Angeles, CA",in-transit,2024-10-30T04:13:59Z
+SH000358,"Phoenix, AZ","Los Angeles, CA",canceled,2024-02-22T14:24:48Z
+SH000359,"New York, NY","Phoenix, AZ",in-transit,2024-01-01T13:33:52Z
+SH000360,"Houston, TX","Chicago, IL",pending,2023-08-16T20:29:18Z
+SH000361,"Phoenix, AZ","Los Angeles, CA",pending,2023-01-01T10:34:13Z
+SH000362,"Chicago, IL","Houston, TX",pending,2023-08-02T04:32:29Z
+SH000363,"Los Angeles, CA","Chicago, IL",delivered,2024-04-18T22:50:37Z
+SH000364,"New York, NY","Los Angeles, CA",in-transit,2023-10-26T02:46:55Z
+SH000365,"Houston, TX","Los Angeles, CA",canceled,2023-09-19T13:54:50Z
+SH000366,"Houston, TX","Phoenix, AZ",canceled,2023-10-04T22:51:19Z
+SH000367,"Phoenix, AZ","Los Angeles, CA",canceled,2024-03-10T16:28:22Z
+SH000368,"Houston, TX","Chicago, IL",canceled,2023-10-11T20:23:45Z
+SH000369,"New York, NY","Chicago, IL",in-transit,2024-11-25T20:44:41Z
+SH000370,"New York, NY","Chicago, IL",in-transit,2024-06-15T18:55:10Z
+SH000371,"New York, NY","Los Angeles, CA",canceled,2023-04-21T14:29:05Z
+SH000372,"Phoenix, AZ","Houston, TX",canceled,2023-02-19T09:39:50Z
+SH000373,"New York, NY","Houston, TX",in-transit,2024-08-27T02:57:13Z
+SH000374,"Chicago, IL","New York, NY",delivered,2024-06-22T23:01:00Z
+SH000375,"Phoenix, AZ","New York, NY",pending,2023-02-17T16:32:33Z
+SH000376,"Phoenix, AZ","New York, NY",canceled,2023-12-17T05:52:56Z
+SH000377,"Phoenix, AZ","New York, NY",in-transit,2023-06-01T02:25:07Z
+SH000378,"New York, NY","Houston, TX",canceled,2023-03-14T23:55:57Z
+SH000379,"New York, NY","Phoenix, AZ",in-transit,2024-09-11T08:32:01Z
+SH000380,"New York, NY","Phoenix, AZ",canceled,2024-02-06T23:50:31Z
+SH000381,"Chicago, IL","Houston, TX",in-transit,2024-08-20T19:51:03Z
+SH000382,"New York, NY","Chicago, IL",pending,2023-06-08T20:25:50Z
+SH000383,"Los Angeles, CA","New York, NY",pending,2024-01-07T02:02:57Z
+SH000384,"Los Angeles, CA","Houston, TX",canceled,2024-06-29T07:43:58Z
+SH000385,"Chicago, IL","Phoenix, AZ",pending,2023-11-11T16:19:08Z
+SH000386,"Chicago, IL","New York, NY",canceled,2023-04-16T12:06:20Z
+SH000387,"New York, NY","Houston, TX",pending,2023-05-03T19:45:58Z
+SH000388,"Houston, TX","Chicago, IL",pending,2023-02-18T19:13:56Z
+SH000389,"Houston, TX","New York, NY",in-transit,2024-05-11T23:13:20Z
+SH000390,"Los Angeles, CA","Chicago, IL",canceled,2023-08-16T21:26:17Z
+SH000391,"Houston, TX","New York, NY",canceled,2024-05-21T17:00:42Z
+SH000392,"Los Angeles, CA","Chicago, IL",in-transit,2023-05-06T15:05:55Z
+SH000393,"Los Angeles, CA","New York, NY",in-transit,2024-01-05T10:28:58Z
+SH000394,"New York, NY","Phoenix, AZ",in-transit,2024-09-04T22:05:21Z
+SH000395,"Los Angeles, CA","Houston, TX",pending,2024-02-08T00:18:11Z
+SH000396,"Phoenix, AZ","New York, NY",canceled,2023-10-31T01:02:22Z
+SH000397,"Houston, TX","New York, NY",delivered,2024-07-13T19:24:35Z
+SH000398,"Phoenix, AZ","New York, NY",canceled,2023-07-28T10:00:18Z
+SH000399,"Chicago, IL","Los Angeles, CA",pending,2024-08-22T07:52:24Z
+SH000400,"Los Angeles, CA","Chicago, IL",in-transit,2024-02-02T08:53:32Z
+SH000401,"Houston, TX","Los Angeles, CA",delivered,2023-05-31T15:05:20Z
+SH000402,"Chicago, IL","New York, NY",pending,2023-07-20T19:16:56Z
+SH000403,"Phoenix, AZ","Chicago, IL",in-transit,2023-12-23T23:33:51Z
+SH000404,"Chicago, IL","Los Angeles, CA",canceled,2023-09-24T22:09:31Z
+SH000405,"New York, NY","Chicago, IL",pending,2024-03-29T17:09:18Z
+SH000406,"New York, NY","Chicago, IL",pending,2023-06-21T20:01:02Z
+SH000407,"Houston, TX","Phoenix, AZ",canceled,2023-10-23T23:30:29Z
+SH000408,"Chicago, IL","Los Angeles, CA",in-transit,2023-02-01T16:53:07Z
+SH000409,"New York, NY","Los Angeles, CA",canceled,2023-06-07T04:15:05Z
+SH000410,"Los Angeles, CA","Chicago, IL",in-transit,2023-09-11T19:09:16Z
+SH000411,"Los Angeles, CA","Houston, TX",in-transit,2024-06-22T21:18:44Z
+SH000412,"New York, NY","Phoenix, AZ",pending,2023-12-25T20:20:30Z
+SH000413,"Phoenix, AZ","Los Angeles, CA",in-transit,2023-08-30T18:08:03Z
+SH000414,"Chicago, IL","Phoenix, AZ",canceled,2023-12-07T23:36:52Z
+SH000415,"New York, NY","Phoenix, AZ",delivered,2023-01-01T04:33:31Z
+SH000416,"Phoenix, AZ","Chicago, IL",delivered,2024-10-27T06:22:01Z
+SH000417,"Los Angeles, CA","New York, NY",in-transit,2024-04-02T09:32:48Z
+SH000418,"Houston, TX","New York, NY",in-transit,2024-02-12T01:36:54Z
+SH000419,"Houston, TX","Los Angeles, CA",delivered,2024-10-05T00:27:43Z
+SH000420,"Chicago, IL","New York, NY",delivered,2023-06-24T09:20:18Z
+SH000421,"Los Angeles, CA","Phoenix, AZ",delivered,2023-08-02T19:42:00Z
+SH000422,"Houston, TX","Los Angeles, CA",canceled,2024-07-26T07:44:47Z
+SH000423,"Phoenix, AZ","Chicago, IL",in-transit,2024-03-03T01:59:06Z
+SH000424,"Los Angeles, CA","Chicago, IL",in-transit,2024-12-26T12:47:11Z
+SH000425,"Houston, TX","Los Angeles, CA",delivered,2023-03-02T04:13:25Z
+SH000426,"Chicago, IL","Phoenix, AZ",delivered,2023-02-17T00:59:23Z
+SH000427,"New York, NY","Phoenix, AZ",in-transit,2024-02-11T15:28:28Z
+SH000428,"Los Angeles, CA","Chicago, IL",in-transit,2023-10-09T04:05:07Z
+SH000429,"New York, NY","Houston, TX",in-transit,2023-08-19T09:12:14Z
+SH000430,"Los Angeles, CA","Chicago, IL",pending,2023-09-27T00:05:02Z
+SH000431,"Los Angeles, CA","New York, NY",canceled,2023-07-27T05:36:22Z
+SH000432,"Los Angeles, CA","Chicago, IL",pending,2023-09-29T14:47:17Z
+SH000433,"Houston, TX","Chicago, IL",delivered,2023-02-20T22:15:36Z
+SH000434,"Phoenix, AZ","Houston, TX",pending,2023-06-14T11:42:02Z
+SH000435,"Chicago, IL","New York, NY",delivered,2024-03-10T02:49:54Z
+SH000436,"Houston, TX","New York, NY",delivered,2023-12-18T16:15:04Z
+SH000437,"Chicago, IL","New York, NY",in-transit,2024-02-10T10:39:58Z
+SH000438,"Phoenix, AZ","New York, NY",pending,2023-02-09T12:41:39Z
+SH000439,"Los Angeles, CA","Chicago, IL",canceled,2023-03-28T01:40:12Z
+SH000440,"Los Angeles, CA","New York, NY",canceled,2023-01-18T21:02:10Z
+SH000441,"Chicago, IL","Phoenix, AZ",delivered,2023-11-18T10:49:06Z
+SH000442,"New York, NY","Los Angeles, CA",pending,2023-12-14T02:57:27Z
+SH000443,"New York, NY","Houston, TX",pending,2024-08-03T09:16:10Z
+SH000444,"Houston, TX","Chicago, IL",canceled,2024-09-22T08:40:16Z
+SH000445,"Chicago, IL","Los Angeles, CA",canceled,2024-04-16T05:24:31Z
+SH000446,"Houston, TX","New York, NY",pending,2024-05-01T12:36:37Z
+SH000447,"Phoenix, AZ","Chicago, IL",in-transit,2024-07-07T01:55:05Z
+SH000448,"New York, NY","Houston, TX",canceled,2024-09-09T22:27:07Z
+SH000449,"Los Angeles, CA","Phoenix, AZ",in-transit,2024-02-07T05:08:38Z
+SH000450,"Chicago, IL","Los Angeles, CA",pending,2024-02-06T15:21:55Z
+SH000451,"Chicago, IL","Phoenix, AZ",pending,2023-01-13T09:14:18Z
+SH000452,"Los Angeles, CA","Chicago, IL",in-transit,2023-11-06T02:41:13Z
+SH000453,"Chicago, IL","Houston, TX",in-transit,2024-07-07T01:10:52Z
+SH000454,"New York, NY","Houston, TX",in-transit,2024-05-12T13:19:49Z
+SH000455,"Phoenix, AZ","Houston, TX",delivered,2023-05-04T11:23:33Z
+SH000456,"Phoenix, AZ","Chicago, IL",in-transit,2024-06-11T11:02:40Z
+SH000457,"New York, NY","Chicago, IL",delivered,2023-09-01T23:24:14Z
+SH000458,"Phoenix, AZ","New York, NY",delivered,2023-05-09T19:33:53Z
+SH000459,"Houston, TX","Los Angeles, CA",delivered,2023-06-13T17:37:56Z
+SH000460,"Chicago, IL","Los Angeles, CA",delivered,2024-10-12T02:57:44Z
+SH000461,"Chicago, IL","Phoenix, AZ",delivered,2024-03-12T18:49:28Z
+SH000462,"Chicago, IL","Houston, TX",pending,2023-03-03T13:55:56Z
+SH000463,"Los Angeles, CA","New York, NY",pending,2023-04-22T11:50:38Z
+SH000464,"Phoenix, AZ","Los Angeles, CA",pending,2023-08-13T13:14:47Z
+SH000465,"Houston, TX","Chicago, IL",delivered,2023-10-10T03:57:27Z
+SH000466,"Los Angeles, CA","Houston, TX",in-transit,2023-06-27T03:05:42Z
+SH000467,"Los Angeles, CA","Phoenix, AZ",in-transit,2023-01-25T09:57:08Z
+SH000468,"Houston, TX","Los Angeles, CA",delivered,2024-01-22T13:27:17Z
+SH000469,"Los Angeles, CA","Phoenix, AZ",pending,2023-02-13T05:38:12Z
+SH000470,"Phoenix, AZ","New York, NY",delivered,2024-06-23T15:52:24Z
+SH000471,"Chicago, IL","Los Angeles, CA",pending,2023-08-07T12:18:36Z
+SH000472,"Phoenix, AZ","Houston, TX",pending,2024-08-19T15:46:39Z
+SH000473,"Phoenix, AZ","Chicago, IL",in-transit,2024-04-21T08:38:34Z
+SH000474,"Phoenix, AZ","Los Angeles, CA",delivered,2023-09-12T02:04:22Z
+SH000475,"Phoenix, AZ","Los Angeles, CA",in-transit,2023-11-22T22:36:17Z
+SH000476,"Los Angeles, CA","New York, NY",pending,2024-12-05T22:41:25Z
+SH000477,"Los Angeles, CA","Phoenix, AZ",in-transit,2023-07-22T12:09:13Z
+SH000478,"Los Angeles, CA","New York, NY",delivered,2024-07-30T10:20:55Z
+SH000479,"New York, NY","Houston, TX",canceled,2024-08-15T20:27:50Z
+SH000480,"Los Angeles, CA","Houston, TX",pending,2024-05-24T00:32:40Z
+SH000481,"Houston, TX","Chicago, IL",canceled,2023-04-21T02:22:57Z
+SH000482,"Houston, TX","Phoenix, AZ",delivered,2023-10-08T01:04:52Z
+SH000483,"New York, NY","Phoenix, AZ",canceled,2023-12-17T00:08:57Z
+SH000484,"Houston, TX","Phoenix, AZ",in-transit,2024-02-11T02:11:32Z
+SH000485,"New York, NY","Los Angeles, CA",delivered,2024-02-07T14:33:08Z
+SH000486,"Phoenix, AZ","New York, NY",pending,2023-02-28T14:22:54Z
+SH000487,"New York, NY","Phoenix, AZ",canceled,2024-11-06T07:22:38Z
+SH000488,"Chicago, IL","Houston, TX",in-transit,2023-05-21T14:55:15Z
+SH000489,"Houston, TX","Los Angeles, CA",in-transit,2023-05-27T06:43:03Z
+SH000490,"Los Angeles, CA","Chicago, IL",pending,2023-03-27T10:01:42Z
+SH000491,"Los Angeles, CA","Chicago, IL",pending,2023-08-31T19:11:03Z
+SH000492,"Houston, TX","Los Angeles, CA",in-transit,2024-07-08T03:01:45Z
+SH000493,"New York, NY","Chicago, IL",pending,2023-02-03T17:22:20Z
+SH000494,"Houston, TX","Los Angeles, CA",in-transit,2023-05-11T00:34:48Z
+SH000495,"Los Angeles, CA","New York, NY",delivered,2023-09-06T18:31:09Z
+SH000496,"New York, NY","Houston, TX",pending,2024-12-06T23:00:00Z
+SH000497,"Houston, TX","Los Angeles, CA",pending,2023-04-24T05:25:46Z
+SH000498,"Phoenix, AZ","New York, NY",in-transit,2023-04-13T00:36:17Z
+SH000499,"Los Angeles, CA","New York, NY",canceled,2023-04-20T16:45:39Z
+SH000500,"Houston, TX","Los Angeles, CA",in-transit,2023-11-24T01:33:27Z
